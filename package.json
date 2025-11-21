@@ -1,6 +1,6 @@
 {
-  "homepage": "https://literallyjakehill.github.io/dashboard",
-  "name": "vite-react-typescript-starter",
+  "homepage": "https://literallyjakehill.github.io/Dashboard",
+  "name": "Dashboard",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "lucide-react": "^0.344.0",
